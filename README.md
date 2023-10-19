@@ -1,3 +1,3 @@
 ﻿# login-star-guardian
 
-- Página de login estática, feita em html e css.
+- Static login page, make with html and css.
